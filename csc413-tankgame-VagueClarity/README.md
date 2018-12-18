@@ -5,5 +5,5 @@ Controls: W A S D space for player 1 Spacebar to shoot
 Breakable walls and random power ups
 Unfinished.
 
-How to run game: Double click the jar file in the Jar file
+How to run game: Double click the jar file in the Jar file after downloading the resourcefolder as well as the jar file.
 
